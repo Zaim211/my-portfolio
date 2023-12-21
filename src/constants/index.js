@@ -15,13 +15,14 @@ import {
     git,
     figma,
     docker,
-    meta,
+    socialapp,
     tesla,
-    shopify,
+    appgym,
     carrent,
     jobit,
     freecodecamp,
     appmeals,
+    appmusic
   } from "../assets";
   
 export const navLinks = [
@@ -31,7 +32,7 @@ export const navLinks = [
     },
     {
       id: "work",
-      title: "Work",
+      title: "Formation",
     },
     {
       id: "contact",
@@ -95,10 +96,6 @@ const technologies = [
       name: "MongoDB",
       icon: mongodb,
     },
-    // {
-    //   name: "Three JS",
-    //   icon: threejs,
-    // },
     {
       name: "git",
       icon: git,
@@ -140,29 +137,7 @@ const formations = [
         "Version Control & Collaboration: Master tools like Git and GitHub for version control and collaborative coding. Learn the best practices of team development, enabling you to work effectively in a collaborative software development environment."
       ],
     },
-    // {
-    //   title: "Web Developer Freelancer",
-    //   company_name: "Fiverr",
-    //   icon: shopify,
-    //   iconBg: "#383E56",
-    //   date: "Jan 2022 - Jan 2023",
-    //   points: [
-       
-    //   ],
-    // },
-    // {
-    //   title: "Full stack Developer",
-    //   company_name: "Meta",
-    //   icon: meta,
-    //   iconBg: "#E6DEDD",
-    //   date: "Jan 2023 - Present",
-    //   points: [
-    //     "Developing and maintaining web applications using React.js and other related technologies.",
-    //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //     "Implementing responsive design and ensuring cross-browser compatibility.",
-    //     "Participating in code reviews and providing constructive feedback to other developers.",
-    //   ],
-    // },
+    
   ];
   
 const testimonials = [
@@ -234,7 +209,7 @@ const projects = [
           color: "green-text-gradient",
         },
         {
-          name: "scss",
+          name: "Tailwind css",
           color: "pink-text-gradient",
         },
       ],
@@ -263,6 +238,72 @@ const projects = [
       image: appmeals,
       source_code_link: "https://github.com/Zaim211/Meals-App",
       source_code_linked: "https://meals-app-wine-seven.vercel.app/",
+    },
+    {
+      name: "Gym App",
+      description:
+        "Modern React 18 Fitness Exercises App With APIs. Introducing my state-of-the-art Fitness Exercises App built on Modern React 18! Elevate your workout routine with cutting-edge features and a seamless user experience. Craft personalized exercise plans, explore a vast library of fitness routines",
+      tags: [
+        {
+          name: "Vuejs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "APIs",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: appgym,
+      source_code_link: "https://github.com/Zaim211/gym_exercises",
+      source_code_linked: "https://app-gym-titay.netlify.app/",
+    },
+    {
+      name: "Social Media App",
+      description:
+        "Experience the next level of social connectivity with my Full Stack Social Media App. Built using cutting-edge technologies including React JS for dynamic user interfaces, Appwrite for backend simplicity, and Tailwind CSS for sleek design, our app delivers a seamless and responsive social experience.",
+      tags: [
+        {
+          name: "Nextjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "axios",
+          color: "green-text-gradient",
+        },
+        {
+          name: "css",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: socialapp,
+      source_code_link: "https://github.com/Zaim211/Titay-App-social-media",
+      source_code_linked: "https://titay-app-social-media.vercel.app/",
+    },
+    {
+      name: "Music App",
+      description:
+        "Music-App it's application, inspired by  YouTube and created with React JS. This platform offers users the freedom to explore and engage with a diverse range of content seamlessly. A project developed with a passion for user-centric design and free accessibility, it stands as a testament to my skills in creating engaging and dynamic web applications.",
+      tags: [
+        {
+          name: "Reactjs",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Axios",
+          color: "green-text-gradient",
+        },
+        {
+          name: "Rapid API",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: appmusic,
+      source_code_link: "https://github.com/Zaim211/Music-App",
+      source_code_linked: "https://6560d9936234c40579e42467--spiffy-mousse-c59935.netlify.app/",
     },
 ];
   
