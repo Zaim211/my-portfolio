@@ -16,15 +16,6 @@ The backend of the portfolio is built using Node.js with the Express.js framewor
 - RESTful API endpoints built with Express.js for handling backend logic
 - MongoDB and MySQL databases for storing project data and user information
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone this repository to your local machine.
-2. Navigate to the project directory.
-3. Install dependencies using npm or yarn: `npm install` or `yarn install`.
-4. Start the development server: `npm run dev` or `yarn dev`.
-5. Access the website at `http://localhost:3000` in your web browser.
 
 ## Contact
 
