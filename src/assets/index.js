@@ -21,7 +21,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
-import socialapp from './socialapp.png'
+import socialapp from './socialapp.PNG'
 import shopify from "./company/shopify.png";
 import freecodecamp from "./company/freecodecamp.png";
 import tesla from "./company/tesla.png";
@@ -33,9 +33,9 @@ import tripguide from "./tripguide.png";
 import evently from "./evently.png";
 import appgym from './appgym.png'
 import appmusic from './appmusic.png'
-import hostme from './hostme.png'
+import hostme from './hostme.PNG'
 import titay from './titay.jpg';
-import web3 from './web3.png'
+import web3 from './web3.PNG'
 
 export {
   logo,
