@@ -31,8 +31,4 @@ To run this project locally, follow these steps:
 For inquiries or collaboration opportunities, feel free to reach out to me:
 
 - Email: [yousseftitazaim@gmail.com]
-- LinkedIn: [TITAZAIM Youssef](https://www.linkedin.com/in/youssef-titazaim)
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- LinkedIn: [TITAZAIM Youssef](https://www.linkedin.com/in/youssef-titazaim-%F0%9F%92%BB-0a6703180/)
